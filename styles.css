@@ -124,7 +124,8 @@ html, body {
   border-radius: 5px;
 }
 .product{
-  width: 50px;
+  width: 100px;
+  height: 100px;
 }
 .producto button {
   background-color: #ffc107;
